@@ -6,6 +6,7 @@ const soapImg = "https://images.unsplash.com/photo-1588959570943-b686e76e5c4c?cr
 const artisanImg = "https://images.unsplash.com/photo-1652379718270-dae57d6fc6c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpc2FuJTIwaGFuZG1hZGUlMjBjcmFmdCUyMHByb2R1Y3RzJTIwcnVzdGljfGVufDF8fHx8MTc3MjYyMDg2NHww&ixlib=rb-4.1.0&q=80&w=1080";
 const wickerImg = "https://images.unsplash.com/photo-1699800751646-6e0584f004f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3aWNrZXIlMjBiYXNrZXQlMjBzdHJhdyUyMGhhdCUyMHJ1c3RpYyUyMGZhcm0lMjBhY2Nlc3Nvcmllc3xlbnwxfHx8fDE3NzI2MjA4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080";
 const donkeyPortrait = "https://images.unsplash.com/photo-1627507257749-73bd64a21f45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjdXRlJTIwZG9ua2V5JTIwcG9ydHJhaXQlMjBjbG9zZSUyMHVwfGVufDF8fHx8MTc3MjYyMDg2M3ww&ixlib=rb-4.1.0&q=80&w=1080";
+const donkeyPlushie = "https://images.unsplash.com/photo-1596172667901-4a9b85e017b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdHVmZmVkJTIwYW5pbWFsJTIwdG95JTIwcGx1c2glMjBkb25rZXl8ZW58MXx8fHwxNzcyNjIwODcxfDA&ixlib=rb-4.1.0&q=80&w=1080";
 
 const PRODUCT_IMAGE_HEIGHT = 200;
 const DESCRIPTION_PREVIEW_LENGTH = 90;
@@ -44,7 +45,7 @@ const products = [
     name: "Peluche âne Fripouille",
     category: "Souvenirs",
     price: PELUCHE_PRICE,
-    image: donkeyPortrait,
+    image: donkeyPlushie,
     badge: "Coup de cœur",
     badgeColor: "#4a7c59",
     description: "La peluche officielle de Fripouille, fabriquée en coton biologique. Ses grandes oreilles et son sourire sont garantis pour faire fondre les cœurs.",
