@@ -2,8 +2,6 @@
 
 Site web vitrine pour le Parc des Ânes, une ferme pédagogique. Construit avec React, React Router, Framer Motion et TailwindCSS.
 
-Projet original Figma : https://www.figma.com/design/5RX3jREk0ygIfQTqyAuvHL/Website-for-Parc-des-%C3%82nes
-
 ## Installation
 
 Pré-requis : Node.js 18+
